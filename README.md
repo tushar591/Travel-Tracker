@@ -1,6 +1,6 @@
 # ✈️ Travel Tracker
 
-A simple and elegant web application to keep track of all the beautiful places you've visited. Add new trips, view your travel history, and never forget a journey!
+A simple and elegant web application to keep track of all the beautiful places you've visited. Add new trips, view your travel history, and never forget a journey.
 
 ---
 
